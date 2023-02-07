@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  width: 100%;
+  height: 121px;
+  background-color: #181828;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand h1 {
+  color: white;
+}
+
+.brand {
+  height: 121px;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}
+
+.more {
+  flex-grow: 2;
+  height: 121px;
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.more ul li a {
+  color: white;
+}
