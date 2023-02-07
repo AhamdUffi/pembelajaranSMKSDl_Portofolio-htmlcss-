@@ -36,6 +36,54 @@ ul {
   justify-content: space-evenly;
 }
 
+.more ul {
+  list-style-type: none;
+}
+
 .more ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* awal home */
+.home {
+  height: 100vh;
+  width: 100%;
+  background-color: #181828;
+  display: flex;
+}
+
+.home .gambar {
+  /* background-color: white; */
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gambar img {
+  width: 300px;
+  height: 450px;
+}
+
+.home .informasi {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.informasi h2 {
+  color: white;
+  font-size: 62px;
+}
+
+.informasi h6 {
+  color: #ff9350;
+  font-size: 24px;
+}
+
+.informasi p {
   color: white;
 }
