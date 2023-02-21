@@ -5,5 +5,5 @@ untuk anak-anak yang ketinggalan atau tidak bisa mengikuti pelajaran di kelas da
 
 jika terdapat kebingungan silahkan baca di bagian catatan atau tanya teman kalian yang hadir didalam pertemuan
 
-## join googleclassroom 
+## join google classroom 
 https://classroom.google.com/c/NTE2MjE4MTE3MTQy?cjc=cbixdok
