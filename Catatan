@@ -1,0 +1,47 @@
+cara install pretiier = merapikan code
+
+1. install melalui extension 
+2. kettikan prettier
+3. klik install
+4. patikan ketika sudah terinstall tidak terdisable 
+5. jika ter diseable silahkan klik enable
+---------------configurasi-------------
+2. masuk settings ( ctrl + , )
+3. tulis Default ganti Editor: Default Formatter menjadi prettier
+4. tulis save lalu ceklis pada Editor: Format On Save
+----------------------------------------
+
+cara install matrial icon = merubah icon file menjadi seperti extensi 
+
+1. install melalui extension 
+2. kettikan matrial icon
+3. klik install
+4. patikan ketika sudah terinstall tidak terdisable 
+5. jika ter diseable silahkan klik enable
+
+----------------------------------
+
+cara install live server = merefres html secara otomatis jika ada perubahan
+
+1. install melalui extension 
+2. kettikan live server
+3. klik install
+4. patikan ketika sudah terinstall tidak terdisable 
+5. jika ter diseable silahkan klik enable 
+
+----------------------------------
+
+register github
+1. masuk website github
+2. registrasi menggunakan akun google (email)
+
+----------------------------------
+
+cara cloning github
+1. buka project yang mau di clone
+2. open folder melalui gibase
+3. ketikan perintah git clone link
+4. enter
+5. klik ls untuk melihat folder yang ada (ls atau list bertujua untuk melihat list yang terdapat pada folder)
+6. ketikan cd nama project (cd / changeDirectory berfungsi untuk berpindah folder )
+7. ketikan code . untuk masuk ke vscode secara otomatis
